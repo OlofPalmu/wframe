@@ -1,9 +1,16 @@
 .row {
-    background-color: black;
-    color: white;
+
 }
 .container {
     
+}
+h1 {
+    color: white;
+    height: 75px;
+    font-size: 60px;
+    font-family: brush script mt, cursive;
+    color: beige;
+    -webkit-text-stroke: 2px black;
 }
 div.vilu {
     background: rgb(161, 23, 23);
@@ -49,14 +56,19 @@ body {
         margin-left: auto;
         margin-right: auto;
         background-color: blanchedalmond;
-        background: url(kelvin.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+}
+.body1 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+    background: url(kelvin.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 img {
-    height: 100px;
+    height: 400px;
 }
 header {
     text-align: center;
@@ -110,6 +122,6 @@ a:hover {
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
+    background-color: blanchedalmond;
+    color: black;
   }
