@@ -1,0 +1,84 @@
+div.vilu {
+    background: rgb(161, 23, 23);
+    color: #1c438a;
+    border: dotted 2px;  
+    width: 100px;
+    height: 100px;
+}
+.h1seko {
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+.h1 {
+    font-size: 60px;
+    color: rgb(9, 12, 190);
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    margin: 100px;
+}
+.h2 {
+    color: blanchedalmond;
+}
+.p1 {
+    color: blanchedalmond;
+}
+.p {
+    font-size: 60px;
+    color: blanchedalmond;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    margin: 100px;
+}
+.ul {
+    list-style-type: square;
+}
+.ol {
+    list-style-type: lower-alpha;
+}
+body {
+        margin-left: auto;
+        margin-right: auto;
+        background-color: black;
+}
+img {
+    height: 100px;
+}
+header {
+    text-align: center;
+    padding-block: 10px;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    height: 75px;
+}
+nav {
+    background-color: blue;
+    width: 20%;
+    height: 600px;
+    float: left;
+}
+section {
+    width: 80%;
+    height: 600px;
+    float: left;
+    background-color: rgb(16, 31, 167);
+}
+nav ul {
+    list-style-type: none;
+    float: left;
+}
+nav a {
+    float: left;
+    text-decoration: none;
+}
+a:hover {
+    background-color: red;
+}
+.row {
+
+}
+.container {
+    
+}
