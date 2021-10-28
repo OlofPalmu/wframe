@@ -67,9 +67,10 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
-img {
+.img1 {
     height: 400px;
 }
+
 header {
     text-align: center;
     padding-block: 10px;
