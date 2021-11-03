@@ -15,15 +15,12 @@ h1 {
     background-size: cover;
 }
 #boxshadow {
--webkit-box-shadow:inset 30px 30px 100px 10px #879BFF;
-box-shadow:inset 30px 30px 100px 10px #879BFF;
+-webkit-box-shadow: inset 30px 30px 100px 10px #879BFF;
+box-shadow: inset 30px 30px 100px 10px #879BFF;
 }
 a:hover {
     color: hsl(36,100%,50%);
-}
-a:link {
-    transition: all 5s
-    color: hsl(36,50%,50%);
+    transition: 2s;
 }
 img {
     max-width: 100%;
