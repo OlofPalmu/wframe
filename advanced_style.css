@@ -15,7 +15,6 @@ h1 {
     background-size: cover;
 }
 #boxshadow {
--webkit-box-shadow: inset 30px 30px 100px 10px #879BFF;
 box-shadow: inset 30px 30px 100px 10px #879BFF;
 }
 a:hover {
