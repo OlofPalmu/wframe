@@ -1,1 +1,7 @@
-
+#advanced {
+    -webkit-box-shadow:inset 30px 30px 100px 10px #879BFF;
+    box-shadow:inset 30px 30px 100px 10px #879BFF;
+}
+h1 {
+    text-shadow: 2px 2px 5px #FF1443;
+}
